@@ -10,5 +10,5 @@ Proyecto que integra scripts de PHP modulares con una base de datos MySQL/MariaD
 
 ## Instalación Local
 1. Clonar el repositorio en la carpeta `htdocs` (XAMPP) 
-2. Importar el archivo `database.sql` en phpMyAdmin 
+2. Importar el archivo `db_sistema_web.sql` en phpMyAdmin 
 3. Abrir en el navegador: `http://localhost/AI3_DisenoWeb/`
